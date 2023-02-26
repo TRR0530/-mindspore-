@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/113962198/210972308-b02543ef-b70f-4099-8a26-d2e0e9175b94.png)
 # 实验结果
 ![image](https://user-images.githubusercontent.com/113962198/210973094-b6780797-af29-421b-8533-68a5472dfdcc.png)
+# 运行环境：
+pycharm/昇腾
+![image](https://user-images.githubusercontent.com/113962198/221396271-bb60c909-2fa6-435d-b948-fc50734ee050.png)
