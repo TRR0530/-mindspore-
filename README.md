@@ -17,3 +17,4 @@
 # 运行环境：
 pycharm/昇腾
 ![image](https://user-images.githubusercontent.com/113962198/221396271-bb60c909-2fa6-435d-b948-fc50734ee050.png)
+![Uploading image.png…]()
